@@ -1,0 +1,70 @@
+1. Neighborhood: West Hollywood, Los Angeles
+   Price: $1,200,000
+   Bedrooms: 3
+   Bathrooms: 2
+   Size: 1,800 sqft
+   Description: Stunning modern home in the heart of West Hollywood. This newly renovated property features an open floor plan, gourmet kitchen, and luxurious master suite.
+
+2. Neighborhood: Upper East Side, Manhattan
+   Price: $3,500,000
+   Bedrooms: 4
+   Bathrooms: 3
+   Size: 2,500 sqft
+   Description: Elegant pre-war apartment in a classic Upper East Side building. This spacious and light-filled unit offers high ceilings, original hardwood floors, and views of Central Park.
+
+3. Neighborhood: Buckhead, Atlanta
+   Price: $900,000
+   Bedrooms: 5
+   Bathrooms: 4
+   Size: 3,200 sqft
+   Description: Contemporary home with a private backyard oasis in sought-after Buckhead. This property boasts a chef's kitchen, media room, and outdoor living space with a pool and spa.
+
+4. Neighborhood: Coconut Grove, Miami
+   Price: $1,800,000
+   Bedrooms: 2
+   Bathrooms: 2.5
+   Size: 1,500 sqft
+   Description: Waterfront condo with breathtaking views of Biscayne Bay. This luxury residence features a gourmet kitchen, marble bathrooms, and a spacious terrace for outdoor entertaining.
+
+5. Neighborhood: Pacific Heights, San Francisco
+   Price: $4,000,000
+   Bedrooms: 6
+   Bathrooms: 4.5
+   Size: 4,000 sqft
+   Description: Grand Victorian mansion in prestigious Pacific Heights. This historic home offers stunning architectural details, multiple fireplaces, and a landscaped garden.
+
+6. Neighborhood: The Woodlands, Houston
+   Price: $700,000
+   Bedrooms: 4
+   Bathrooms: 3.5
+   Size: 3,500 sqft
+   Description: Custom-built estate in the exclusive community of The Woodlands. This property features a gourmet kitchen, home theater, and a large backyard with a pool and spa.
+
+7. Neighborhood: Old Town, Chicago
+   Price: $1,500,000
+   Bedrooms: 3
+   Bathrooms: 2.5
+   Size: 2,000 sqft
+   Description: Classic brownstone townhouse in historic Old Town. This renovated home offers an updated kitchen, exposed brick walls, and a rooftop deck with city views.
+
+8. Neighborhood: Ballard, Seattle
+   Price: $900,000
+   Bedrooms: 3
+   Bathrooms: 2.5
+   Size: 2,200 sqft
+   Description: Chic modern townhouse in the vibrant neighborhood of Ballard. This light-filled property features high-end finishes, a rooftop deck, and a two-car garage.
+
+9. Neighborhood: South Beach, Miami
+   Price: $2,500,000
+   Bedrooms: 2
+   Bathrooms: 2
+   Size: 1,800 sqft
+   Description: Luxurious penthouse in the heart of South Beach. This sleek and contemporary residence offers panoramic ocean views, a gourmet kitchen, and a private rooftop terrace.
+
+10. Neighborhood: Capitol Hill, Washington D.C.
+    Price: $1,100,000
+    Bedrooms: 4
+    Bathrooms: 3
+    Size: 2,400 sqft
+    Description: Historic row house in desirable Capitol Hill. This charming home features original details, a renovated kitchen, and a landscaped backyard perfect for entertaining.
+
